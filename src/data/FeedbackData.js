@@ -12,7 +12,7 @@ const FeedbackData = [
     {
       id: 3,
       rating: 8,
-      text: 'Ashishkumar, Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+      text: 'Ashishkumar K, Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
     },
   ]
   
